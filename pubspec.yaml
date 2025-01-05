@@ -1,7 +1,9 @@
 name: to_currency
 description: "Add currency to amount"
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/freddydrodev/flutter_to_currency
+repository: https://github.com/freddydrodev/flutter_to_currency
+issue_tracker: https://github.com/freddydrodev/flutter_to_currency/issues
 
 environment:
   sdk: ^3.5.4
